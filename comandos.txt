@@ -1,0 +1,30 @@
+Comandos:
+
+git init
+touch index.html
+touch main.js
+git branch
+git branch -M main
+git config --global user.name LuisaVargas-9
+git config --global user.email luisavr0997@gmail.com
+git user.name
+git config user.name
+git add .
+git commit -m "commit 01 luisa vargas"
+git remote add origin https://github.com/LuisaVargas-9/Checkpoint-LuisaVargas.git
+git push -u origin main
+git branch feature
+git branch
+git switch feature
+git branch
+mkdir Hardware Software SeguridadInformatica
+touch Hardware/Resumen.txt Software/Resumen.txt SeguridadInformatica/Resumen.txt
+git add .
+git commit -m "commit 02 luisa vargas"
+git push origin feature 
+git switch main
+git branch
+mv index.html resumenSoftware.txt
+mv main.js resumenHardware.txt
+touch comandos.txt
+history
